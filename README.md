@@ -9,3 +9,4 @@ The computer science courses that I took at El Camino College (2019-2021) as a C
 | [CS-14](https://github.com/rudyorre/El-Camino-College/tree/main/CS-14) | Computer Programming in Python  | Python   | Spring 2021 | INP   |
 | [CS-8](https://github.com/rudyorre/El-Camino-College/tree/main/CS-8)   | Foundations of Data Science     | Python   | Spring 2021 | INP   |
 
+I also took a couple courses at Santa Monica College that weren't offered at El Camino, which are documented [here](https://github.com/rudyorre/Santa-Monica-College/blob/main/README.md).
