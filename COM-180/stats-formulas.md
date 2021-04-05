@@ -2,4 +2,4 @@
 
 # T Distribution
 
-$ t = (\bar{X} - \mu) / (S / \sqrt{n}) $
+$$ t = (\bar{X} - \mu) / (S / \sqrt{n}) $$
