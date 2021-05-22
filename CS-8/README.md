@@ -1,3 +1,4 @@
 # CS 8 - Foundations of Data Science
 CS 8 is Foundations of Data Science (in Python), which I took under Professor Solomon Russell, Professor Alice Martinez, and Professor Jin Chon in the Spring of 2021. Please do not copy your homework assignments from my code; I have simply posted my solutions to document and showcase my work.
 
+This course examines the foundations of data science from three perspectives: inferential thinking, computational thinking, and real-world relevance. The course combines programming skills and statistical inference to ask questions and explore problems encountered in real-world datasets, from multiple fields of study, career paths, and everyday life. It also delves into social and legal issues surrounding data analysis, including issues of privacy and data ownership.
